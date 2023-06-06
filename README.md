@@ -18,7 +18,8 @@ The repository contains two folder with the following files in each one of them:
 
 ·2. StarLife_Files:
 
-- `mailterator.sh`: To do the imaging and basic analyses of the trajectories with the MoDEL Workflow by Daniel Beltrán.
+- `mailterator.sh`: To run the dynamics of each PDB structure. 
+- `analyzer.py`: To do the imaging and basic analyses of the trajectories with the MoDEL Workflow by Daniel Beltrán.
 - `img_run.sh`: To do the fitting of the trajectories. 
 - `workflow_runner.py`: Do the advanced analyses of the trajectories with the MoDEL Workflow by Daniel Beltrán.
 
