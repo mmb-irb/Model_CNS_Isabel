@@ -32,4 +32,6 @@ It is recommended to have a high storage space in the computer if you intend to 
 
 ## License
 
+Apache 2.0
+
 
