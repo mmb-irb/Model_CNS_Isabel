@@ -26,7 +26,7 @@ The repository contains two folder with the following files in each one of them:
 
 ## How to run them
 
-Some files are written in Python language (.ipynb) and other in Bash (.sh). For running them, the appropiate environment has to be installed. This project has used a Conda environment with all the needed packages downloaded to run the Python files. Moreover, the environment corresponding to the MoDEL Workflow by Daniel Beltrán was installed to run the bash files. 
+Some files are written in Python language (.ipynb or .py) and other in Bash (.sh). For running them, the appropiate environment has to be installed. This project has used a Conda environment with all the needed packages downloaded to run the Python files. Moreover, the environment corresponding to the MoDEL Workflow by Daniel Beltrán was installed to run the bash files. 
 
 It is recommended to have a high storage space in the computer if you intend to run these scripts. 
 
