@@ -22,6 +22,7 @@ The repository contains two folder with the following files in each one of them:
 - `analyzer.py`: To do the imaging and basic analyses of the trajectories with the MoDEL Workflow by Daniel Beltrán.
 - `img_run.sh`: To do the fitting of the trajectories. 
 - `workflow_runner.py`: Do the advanced analyses of the trajectories with the MoDEL Workflow by Daniel Beltrán.
+- `input_setter.iypnb`: input.json example. It is needed personalized for each PDB for the workflow mdsetup by Daniel Beltrán. 
 
 
 ## How to run them
